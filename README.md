@@ -1,5 +1,4 @@
-### 👋 Hello World, I'm Italo.  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-
+### 👋 Hello World, I'm Italo
 </br>
 
 ---- 
@@ -17,6 +16,7 @@ Some languages and frameworks that I worked:
 - J2ME, J2SE, J2EE, Hibernate, Spring, Struts, Velocity
 - Titanium Appcelerator, JQuery
 - Adobe Flex
+- Kafka, Docker, AWS (EC2, SES, S3, EBS), Kubernetes
 
 Kind of application that I built from zero: Desktop, Mobile, TV and Web applications;
 
