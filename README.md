@@ -34,4 +34,4 @@ I have marketing habilities with Google ADS and Facebook ADS
 my hobbies are: Read (about tecnologies, design patterns, clean code, clean architecture, refactories),
 coding, sports ( surf and soccer), family and friends;
    
-![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryclenio&show_icons=true)
+![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=italomatos&show_icons=true)
