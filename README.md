@@ -26,8 +26,13 @@ server application, setup security)
 positions I've held in companies I've worked for:
 trainee ( in 2000 :) ), Tech leader, tech manager, CTO and CEO.
 
-I have marketing habilities with Google ADS and Facebook ADS
+PRs in open source projects that I've contributing with important practices
+ - https://github.com/rubyforgood/human-essentials/pull/3091/files
+ - https://github.com/rubyforgood/human-essentials/pull/3048/files 
+ - https://github.com/rubyforgood/casa/pull/3799/files
 
+Gem open source that I created
+- http://github.com/italomatos/google_drive_direct_download
 
 my hobbies are: Read (about tecnologies, design patterns, clean code, clean architecture, refactories),
 coding, sports ( surf and soccer), family and friends;
