@@ -36,5 +36,3 @@ Gem open source that I created
 
 my hobbies are: Read (about tecnologies, design patterns, clean code, clean architecture, refactories),
 coding, sports ( surf and soccer), family and friends;
-   
-![Italomatos GitHub Stats](https://github-readme-stats.vercel.app/api?username=italomatos&show_icons=true)
